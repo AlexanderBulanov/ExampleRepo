@@ -1,1 +1,3 @@
 this program has features
+
+fixed bugs
